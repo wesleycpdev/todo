@@ -26,6 +26,11 @@
   npm install -g @angular/cli
   ```
   
+  Instale os módulos node:
+  ```
+  npm install
+  ```
+  
   Inicialize a aplicação:
   
   ```
